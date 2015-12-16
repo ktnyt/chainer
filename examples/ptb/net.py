@@ -5,7 +5,7 @@ import chainer.links as L
 
 class RNNLM(chainer.Chain):
 
-    """Recurrent neural net languabe model for penn tree bank corpus.
+    """Recurrent neural net language model for penn tree bank corpus.
 
     This is an example of deep LSTM network for infinite length input.
 
